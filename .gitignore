@@ -1,0 +1,11 @@
+*
+!.clang-format
+!.gitignore
+!LICENSE
+
+!*.cc
+!*.h
+!*.cpp
+
+!*.md
+!*.png
