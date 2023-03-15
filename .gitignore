@@ -9,3 +9,10 @@
 
 !*.md
 !*.png
+!*.txt
+
+!bin
+!config
+!src
+!third_party
+!raw_app
