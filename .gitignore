@@ -6,6 +6,7 @@
 !*.cc
 !*.h
 !*.cpp
+!*.py
 
 !*.md
 !*.png
@@ -14,5 +15,8 @@
 !bin
 !config
 !src
-!third_party
+!src/**
+!source_libs
+!source_libs/**
 !raw_app
+!microservice_app
