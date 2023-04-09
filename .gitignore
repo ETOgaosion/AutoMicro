@@ -21,3 +21,6 @@
 !raw_app
 !microservice_app
 !rpc_modules
+
+.DS_Store
+**/.DS_Store
