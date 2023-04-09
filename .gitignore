@@ -20,3 +20,4 @@
 !source_libs/**
 !raw_app
 !microservice_app
+!rpc_modules
